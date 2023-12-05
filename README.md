@@ -1,6 +1,6 @@
  # LINK
  ### 1차 개인 프로젝트 LAS <a href="https://github.com/beretk/LiveandLoud_1stProject"><img src="https://img.shields.io/badge/인디밴드 공연장 라이브클럽 소개 홈페이지]-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a>
- ### 2차 팀 프로젝트  XX <a href="#"><img src="https://img.shields.io/badge/팀프로젝트명-009900?style=for-the-badge&logo=github&logoColor=white"/></a>
+ ### 2차 팀 프로젝트  XX <a href="https://github.com/Yubin0908/k-park"><img src="https://img.shields.io/badge/팀프로젝트명-009900?style=for-the-badge&logo=github&logoColor=white"/></a>
  ### 공부일지 <a href="https://github.com/beretk/webPro"><img src="https://img.shields.io/badge/공부일지-0000FF?style=for-the-badge&logo=github&logoColor=white"/></a>
 
  # 📚 SKIL
